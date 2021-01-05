@@ -4,7 +4,7 @@
   "homepage": "http://localhost/demo",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.8.0",
     "lodash": "^4.17.11",
     "react": "^16.8.6",
